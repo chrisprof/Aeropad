@@ -1,0 +1,23 @@
+1. **Preamble**:  
+   This license governs the use of Cloudpad. The Software is open-source to provide transparency to users, but the Licensor retains exclusive rights to any commercial use or profit derived from the Software. By using the Software, you agree to the following terms.
+
+2. **Grant of License**:  
+   You are permitted to use, modify, and distribute the Software for non-commercial purposes, under the terms of this License. Commercial use of the Software is strictly prohibited without written permission from the Licensor.
+
+3. **Commercial Rights**:  
+   The Licensor reserves all rights to monetize, sell, or otherwise commercially exploit the Software and any derivative works.
+
+4. **Derivative Works**:  
+   You are allowed to create derivative works based on the Software, provided such works are distributed for non-commercial purposes and retain this License.
+
+5. **Distribution**:  
+   Redistribution of the Software or its derivatives is permitted, provided that the original author is credited, and this License accompanies the distributed works.
+
+6. **Attribution**:  
+   All copies or substantial portions of the Software must include attribution to the original author.
+
+7. **Termination**:  
+   This License will be terminated if you violate any of its terms. Upon termination, all rights granted by this License will cease immediately.
+
+8. **Disclaimer of Warranties**:  
+   The Software is provided "as is," without warranty of any kind, express or implied.
