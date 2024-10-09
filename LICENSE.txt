@@ -1,5 +1,5 @@
 1. **Preamble**:  
-   This license governs the use of Cloudpad. The Software is open-source to provide transparency to users, but the Licensor retains exclusive rights to any commercial use or profit derived from the Software. By using the Software, you agree to the following terms.
+   This license governs the use of Aeropad ("the Software"). The Software is open-source to provide transparency to users, but the Licensor retains exclusive rights to any commercial use or profit derived from the Software. By using the Software, you agree to the following terms.
 
 2. **Grant of License**:  
    You are permitted to use, modify, and distribute the Software for non-commercial purposes, under the terms of this License. Commercial use of the Software is strictly prohibited without written permission from the Licensor.
